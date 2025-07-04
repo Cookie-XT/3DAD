@@ -1,6 +1,0 @@
-arch: mobilenet # MobileNet V1
-widen_factor: 1.0
-checkpoint_fp: configs/tddfa_20.pt
-size: 120
-num_params: 62
-
